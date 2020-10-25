@@ -1,4 +1,9 @@
 ### Hi there 👋
+Check Out my Portfolio on https://jarbayron.github.io/ !!
+- 🔭 I’m currently working on completing the Odin Project Full Stack Curriculum 
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: jarbayron@gmail.com
+- ⚡ Fun fact: I like to jog and share pizza with friends
 
 <!--
 **jarbayron/jarbayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
